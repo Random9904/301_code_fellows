@@ -9,3 +9,8 @@ Reading 1:
 Reading 2:
 \
 [Network scanning with NMAP](https://github.com/Random9904/301_code_fellows/wiki/Network-scanning-with-NMAP)
+
+\
+Reading 3:
+\
+[Network Segmentation](https://github.com/Random9904/301_code_fellows/wiki/Network-Segmentation)
