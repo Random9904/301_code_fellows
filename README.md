@@ -14,3 +14,8 @@ Reading 2:
 Reading 3:
 \
 [Network Segmentation](https://github.com/Random9904/301_code_fellows/wiki/Network-Segmentation)
+
+\
+Reading 4:
+\
+[Routing](https://github.com/Random9904/301_code_fellows/wiki/Routing)
