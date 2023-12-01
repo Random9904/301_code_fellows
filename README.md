@@ -19,3 +19,8 @@ Reading 3:
 Reading 4:
 \
 [Routing](https://github.com/Random9904/301_code_fellows/wiki/Routing)
+
+\
+Reading 5:
+\
+[VPN Tunnel](https://github.com/Random9904/301_code_fellows/wiki/VPN-Tunnel)
