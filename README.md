@@ -24,3 +24,8 @@ Reading 4:
 Reading 5:
 \
 [VPN Tunnel](https://github.com/Random9904/301_code_fellows/wiki/VPN-Tunnel)
+
+\
+Reading 6:
+\
+[Network Address Translation](https://github.com/Random9904/301_code_fellows/wiki/Network-Address-Translation)
