@@ -29,3 +29,8 @@ Reading 5:
 Reading 6:
 \
 [Network Address Translation](https://github.com/Random9904/301_code_fellows/wiki/Network-Address-Translation)
+
+\
+Reading 7:
+\
+[Web Server Deployment](https://github.com/Random9904/301_code_fellows/wiki/Web-Server-Deployment)
