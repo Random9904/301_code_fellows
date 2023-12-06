@@ -34,3 +34,8 @@ Reading 6:
 Reading 7:
 \
 [Web Server Deployment](https://github.com/Random9904/301_code_fellows/wiki/Web-Server-Deployment)
+
+\
+Reading 8:
+\
+[RADIUS Authentication](https://github.com/Random9904/301_code_fellows/wiki/RADIUS-Authentication)
