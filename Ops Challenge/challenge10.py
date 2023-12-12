@@ -1,6 +1,3 @@
-import psutil
-import time
-
 # Using Psutil
 
 import psutil
